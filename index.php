@@ -11,5 +11,5 @@ $app->get('/', function() use($app) {
 	return 'OK';
 });
 
-//executa
+//executa a aplicacao
 $app->run();
